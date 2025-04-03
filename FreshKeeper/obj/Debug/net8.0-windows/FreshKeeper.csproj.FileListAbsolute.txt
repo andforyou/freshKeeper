@@ -1,0 +1,272 @@
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.exe
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.deps.json
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.runtimeconfig.json
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.dll
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.pdb
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.Dashboard.resources
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.FoodDetails.resources
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.FoodUploading.resources
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.ListUpdating.resources
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.Login.resources
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.Properties.Resources.resources
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.Register.resources
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.ShoppingList.resources
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.csproj.GenerateResource.cache
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.AssemblyInfo.cs
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKee.F70611FD.Up2Date
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.dll
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\refint\FreshKeeper.dll
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.pdb
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.genruntimeconfig.cache
+C:\Users\123\Desktop\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\ref\FreshKeeper.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.exe
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.deps.json
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.runtimeconfig.json
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.pdb
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.csproj.AssemblyReference.cache
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.Dashboard.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.ListUpdating.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.Login.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.Properties.Resources.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.Register.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.ShoppingList.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.csproj.GenerateResource.cache
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.AssemblyInfoInputs.cache
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.AssemblyInfo.cs
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.csproj.CoreCompileInputs.cache
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKee.F70611FD.Up2Date
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\refint\FreshKeeper.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.pdb
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.genruntimeconfig.cache
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\ref\FreshKeeper.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.AllItemsList.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.ItemDetails.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.ItemUploading.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.PersonalPage.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.PreferenceList.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.PreferedItemUploading.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.exe
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.deps.json
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.runtimeconfig.json
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.pdb
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.csproj.AssemblyReference.cache
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.AllItemsList.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.DashBoard.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.ItemDetails.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.ItemUploading.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.ListUpdating.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.Login.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.PersonalPage.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.PreferedItemUploading.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.PreferenceList.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.Properties.Resources.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.Register.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.ShoppingList.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.csproj.GenerateResource.cache
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.AssemblyInfoInputs.cache
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.AssemblyInfo.cs
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.csproj.CoreCompileInputs.cache
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\FreshKee.F70611FD.Up2Date
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\refint\FreshKeeper.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.pdb
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.genruntimeconfig.cache
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v1\FreshKeeper\obj\Debug\net8.0-windows\ref\FreshKeeper.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.exe
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.deps.json
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.runtimeconfig.json
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.pdb
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.csproj.AssemblyReference.cache
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.AllItemsList.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.DashBoard.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.ItemDetails.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.ItemUploading.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.ListUpdating.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.Login.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.PersonalPage.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.PreferedItemUploading.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.PreferenceList.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.Properties.Resources.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.Register.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.ShoppingList.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.csproj.GenerateResource.cache
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.AssemblyInfoInputs.cache
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.AssemblyInfo.cs
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.csproj.CoreCompileInputs.cache
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKee.F70611FD.Up2Date
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\refint\FreshKeeper.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.pdb
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.genruntimeconfig.cache
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\ref\FreshKeeper.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v2\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.StatisticChart.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.exe
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.deps.json
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.runtimeconfig.json
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.pdb
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.csproj.AssemblyReference.cache
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.AllItemsList.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.DashBoard.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.ItemDetails.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.ItemUploading.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.ListUpdating.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.Login.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.PersonalPage.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.PreferedItemUploading.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.PreferenceList.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.Properties.Resources.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.Register.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.ShoppingList.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.StatisticChart.resources
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.csproj.GenerateResource.cache
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.AssemblyInfoInputs.cache
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.AssemblyInfo.cs
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.csproj.CoreCompileInputs.cache
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKee.F70611FD.Up2Date
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\refint\FreshKeeper.dll
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.pdb
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.genruntimeconfig.cache
+C:\Users\chloe\Desktop\FreshKeeper(1)\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\ref\FreshKeeper.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.exe
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.deps.json
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.runtimeconfig.json
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\FreshKeeper.pdb
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.csproj.AssemblyReference.cache
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.AllItemsList.resources
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.DashBoard.resources
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.ItemDetails.resources
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.ItemUploading.resources
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.ListUpdating.resources
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.Login.resources
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.PersonalPage.resources
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.PreferedItemUploading.resources
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.PreferenceList.resources
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.Properties.Resources.resources
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.Register.resources
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.ShoppingList.resources
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.StatisticChart.resources
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.csproj.GenerateResource.cache
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.AssemblyInfoInputs.cache
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.AssemblyInfo.cs
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.csproj.CoreCompileInputs.cache
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKee.F70611FD.Up2Date
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\refint\FreshKeeper.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.pdb
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\FreshKeeper.genruntimeconfig.cache
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\obj\Debug\net8.0-windows\ref\FreshKeeper.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\NUnit3.TestAdapter.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\NUnit3.TestAdapter.pdb
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\nunit.engine.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\nunit.engine.api.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\nunit.engine.core.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\testcentric.engine.metadata.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\Moq.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\nunit.framework.dll
+C:\Users\86136\Documents\WeChat Files\wxid_qwnq1801kiv222\FileStorage\File\2024-10\FreshKeeper.v4\FreshKeeper\bin\Debug\net8.0-windows\nunit.framework.legacy.dll

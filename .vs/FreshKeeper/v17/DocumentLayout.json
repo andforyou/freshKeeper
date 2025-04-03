@@ -1,0 +1,494 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\itemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\itemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\idatabasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\idatabasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\statisticchart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\statisticchart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\statisticchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\statisticchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\shoppinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\shoppinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\preferencelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\preferencelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\prefereditemuploading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\prefereditemuploading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\personalpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\personalpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\personalpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\personalpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\nunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\nunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\listupdating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\listupdating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\itemuploading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\itemuploading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\freshkeeper\\itemuploading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\itemuploading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\itemdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\itemdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\databasestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\databasestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\allitemslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\allitemslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\freshkeeper\\allitemslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\allitemslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\freshkeeper\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|c:\\users\\86136\\documents\\wechat files\\wxid_qwnq1801kiv222\\filestorage\\file\\2024-10\\freshkeeper.v4\\freshkeeper\\freshkeeper.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\freshkeeper.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\freshkeeper\\itemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\itemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\freshkeeper\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{001089D8-F0A7-447F-9245-0F17185FD872}|FreshKeeper\\FreshKeeper.csproj|solutionrelative:freshkeeper\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 255,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatisticChart.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\StatisticChart.Designer.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\StatisticChart.Designer.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\StatisticChart.Designer.cs",
+              "RelativeToolTip": "FreshKeeper\\StatisticChart.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:33:46.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\Login.Designer.cs",
+              "RelativeToolTip": "FreshKeeper\\Login.Designer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:23:35.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PreferedItemUploading.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\PreferedItemUploading.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\PreferedItemUploading.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\PreferedItemUploading.cs",
+              "RelativeToolTip": "FreshKeeper\\PreferedItemUploading.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAzwFAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:31:10.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PreferenceList.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\PreferenceList.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\PreferenceList.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\PreferenceList.cs",
+              "RelativeToolTip": "FreshKeeper\\PreferenceList.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAA3wFYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:29:57.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingList.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\ShoppingList.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\ShoppingList.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\ShoppingList.cs",
+              "RelativeToolTip": "FreshKeeper\\ShoppingList.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAA1wFEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:29:25.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\IDatabaseManager.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\IDatabaseManager.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\IDatabaseManager.cs",
+              "RelativeToolTip": "FreshKeeper\\IDatabaseManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:18:50.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemDetails.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\ItemDetails.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\ItemDetails.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\ItemDetails.cs",
+              "RelativeToolTip": "FreshKeeper\\ItemDetails.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAqwOEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:11:01.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonalPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\PersonalPage.Designer.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\PersonalPage.Designer.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\PersonalPage.Designer.cs",
+              "RelativeToolTip": "FreshKeeper\\PersonalPage.Designer.cs",
+              "ViewState": "AQIAAGABAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:25:37.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\Register.Designer.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\Register.Designer.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\Register.Designer.cs",
+              "RelativeToolTip": "FreshKeeper\\Register.Designer.cs",
+              "ViewState": "AQIAAFIBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:30:16.02Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatisticChart.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\StatisticChart.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\StatisticChart.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\StatisticChart.cs",
+              "RelativeToolTip": "FreshKeeper\\StatisticChart.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAQwGkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:41:24.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ListUpdating.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\ListUpdating.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\ListUpdating.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\ListUpdating.cs",
+              "RelativeToolTip": "FreshKeeper\\ListUpdating.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:22:08.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ItemUploading.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\ItemUploading.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\ItemUploading.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\ItemUploading.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FreshKeeper\\ItemUploading.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:20:07.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\Program.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\Program.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\Program.cs",
+              "RelativeToolTip": "FreshKeeper\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:18:19.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\Register.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\Register.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\Register.cs",
+              "RelativeToolTip": "FreshKeeper\\Register.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAA5wCMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:25:28.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ItemDetails.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\ItemDetails.Designer.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\ItemDetails.Designer.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\ItemDetails.Designer.cs",
+              "RelativeToolTip": "FreshKeeper\\ItemDetails.Designer.cs",
+              "ViewState": "AQIAABUBAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:20:03.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\DatabaseManager.cs",
+              "RelativeToolTip": "FreshKeeper\\DatabaseManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:12:15.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Nunittest.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\Nunittest.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\Nunittest.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\Nunittest.cs",
+              "RelativeToolTip": "FreshKeeper\\Nunittest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T04:56:35.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonalPage.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\PersonalPage.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\PersonalPage.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\PersonalPage.cs",
+              "RelativeToolTip": "FreshKeeper\\PersonalPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:17:36.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AllItemsList.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\AllItemsList.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\AllItemsList.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\AllItemsList.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FreshKeeper\\AllItemsList.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:07:24.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\Login.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\Login.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\Login.cs",
+              "RelativeToolTip": "FreshKeeper\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:54:13.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DashBoard.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\DashBoard.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\DashBoard.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\DashBoard.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FreshKeeper\\DashBoard.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T04:48:18.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ItemUploading.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\ItemUploading.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\ItemUploading.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\ItemUploading.cs",
+              "RelativeToolTip": "FreshKeeper\\ItemUploading.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:37:06.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FreshKeeper",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\FreshKeeper.csproj",
+              "RelativeDocumentMoniker": "FreshKeeper\\FreshKeeper.csproj",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\FreshKeeper.csproj",
+              "RelativeToolTip": "FreshKeeper\\FreshKeeper.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T05:07:19.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InputValidator.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\InputValidator.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\InputValidator.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\InputValidator.cs",
+              "RelativeToolTip": "FreshKeeper\\InputValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:41:33.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AllItemsList.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\AllItemsList.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\AllItemsList.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\AllItemsList.cs",
+              "RelativeToolTip": "FreshKeeper\\AllItemsList.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAA1wHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:47:08.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DatabaseStart.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\DatabaseStart.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\DatabaseStart.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\DatabaseStart.cs",
+              "RelativeToolTip": "FreshKeeper\\DatabaseStart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:47:22.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\DashBoard.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\DashBoard.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\DashBoard.cs",
+              "RelativeToolTip": "FreshKeeper\\DashBoard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:26:36.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ItemDetails.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\ItemDetails.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\ItemDetails.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\ItemDetails.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FreshKeeper\\ItemDetails.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:21:09.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Login.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\Login.cs",
+              "RelativeDocumentMoniker": "FreshKeeper\\Login.cs",
+              "ToolTip": "C:\\Users\\86136\\Documents\\WeChat Files\\wxid_qwnq1801kiv222\\FileStorage\\File\\2024-10\\FreshKeeper.v4\\FreshKeeper\\Login.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FreshKeeper\\Login.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:30:02.188Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

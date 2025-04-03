@@ -1,0 +1,3 @@
+server=localhost;user=FreshKeeper;password=123456;database=freshkeeper
+D:\dat\database.zip
+D:\dat\FreshKeeperDatabase

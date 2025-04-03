@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="DashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StatisticChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PreferedItemUploading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PreferenceList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ItemUploading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ItemDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PersonalPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AllItemsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListUpdating.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShoppingList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
